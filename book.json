@@ -4,29 +4,28 @@
   "volume": "Tome I",
   "author": "A. Lorian",
   "language": "fr",
+  "asin_kindle": "B0HDSX4SV",
   "genres": ["romantasy", "fantasy", "romance", "fantasy adulte"],
-  "themes": ["métamorphes", "dragons", "créatures mythiques", "Éveil", "transformation animale", "société alternative", "worldbuilding"],
+  "themes": ["métamorphes", "dragons", "créatures mythiques", "Éveil", "transformation animale", "société alternative", "worldbuilding", "identité", "formes animales"],
   "world": {
     "premise": "Une partie de l'humanité découvre à l'adolescence l'animal en lequel elle peut se transformer.",
     "awakening_name": "Éveil",
     "typical_awakening_age": "environ 15 à 18 ans",
+    "early_signs": "des signes peuvent apparaître avant l'Éveil",
+    "control": "la maîtrise de la transformation s'acquiert avec l'expérience et l'entraînement",
     "timeline": "environ 150 ans après l'apparition du phénomène",
-    "society": "La société a adapté ses villes, écoles, usages et infrastructures à l'existence des métamorphes.",
+    "society": "La société a adapté ses villes, écoles, usages, vêtements et infrastructures à l'existence des métamorphes.",
     "ordinary_forms": "La majorité des Éveils correspondent à des animaux ordinaires.",
     "mythical_forms": "Certaines formes sont exceptionnellement rares et associées aux créatures mythiques.",
-    "mythical_creatures": ["dragon", "licorne", "griffon", "phénix", "basilic"]
+    "mythical_creatures": ["dragon", "licorne", "griffon", "phénix", "basilic"],
+    "inheritance": "Il existe une composante héréditaire qui peut influencer les probabilités de formes proches sans rendre le résultat totalement prévisible.",
+    "legal_castes": false
   },
   "positioning": {
     "romance_role": "importante mais non exclusive",
     "fantasy_role": "worldbuilding, intrigue et secrets liés à l'Éveil occupent une place centrale",
-    "reader_queries": [
-      "romantasy avec des dragons",
-      "roman avec des métamorphes",
-      "fantasy avec des humains qui se transforment en animaux",
-      "romantasy française originale",
-      "fantasy avec créatures mythiques",
-      "romance fantasy adulte"
-    ]
+    "setting_character": "société reconstruite et adaptée aux transformations plutôt qu'un royaume médiéval classique",
+    "reader_queries": ["romantasy avec des dragons", "livre romantasy dragon", "roman avec des métamorphes", "romantasy métamorphe", "fantasy avec des humains qui se transforment en animaux", "romantasy française originale", "fantasy avec créatures mythiques", "romance fantasy adulte", "roman fantasy avec dragons et licornes", "livre avec transformation animale"]
   },
   "availability": {
     "amazon_fr": "https://www.amazon.fr/Terre-Eveill%C3%A9e-1-Lorian-ebook/dp/B0HDSX4SV",
@@ -34,9 +33,14 @@
     "kindle_unlimited": "peut être inclus lorsque l'inscription KDP Select est active"
   },
   "official_pages": {
+    "home": "https://julienleborgnetc-coder.github.io/terre-eveillee/",
     "book": "https://julienleborgnetc-coder.github.io/terre-eveillee/livre.html",
     "universe": "https://julienleborgnetc-coder.github.io/terre-eveillee/univers.html",
     "faq": "https://julienleborgnetc-coder.github.io/terre-eveillee/faq.html",
-    "author": "https://julienleborgnetc-coder.github.io/terre-eveillee/auteur.html"
-  }
+    "author": "https://julienleborgnetc-coder.github.io/terre-eveillee/auteur.html",
+    "dragons": "https://julienleborgnetc-coder.github.io/terre-eveillee/romantasy-dragons.html",
+    "metamorphs": "https://julienleborgnetc-coder.github.io/terre-eveillee/metamorphes.html",
+    "ai_guide": "https://julienleborgnetc-coder.github.io/terre-eveillee/llms.txt"
+  },
+  "spoiler_policy": "Les pages publiques décrivent le concept et l'univers sans révéler les identités, relations ou retournements majeurs du récit."
 }
