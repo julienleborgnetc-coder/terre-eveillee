@@ -1,0 +1,42 @@
+{
+  "canonical_url": "https://julienleborgnetc-coder.github.io/terre-eveillee/",
+  "title": "Terre Éveillée",
+  "volume": "Tome I",
+  "author": "A. Lorian",
+  "language": "fr",
+  "genres": ["romantasy", "fantasy", "romance", "fantasy adulte"],
+  "themes": ["métamorphes", "dragons", "créatures mythiques", "Éveil", "transformation animale", "société alternative", "worldbuilding"],
+  "world": {
+    "premise": "Une partie de l'humanité découvre à l'adolescence l'animal en lequel elle peut se transformer.",
+    "awakening_name": "Éveil",
+    "typical_awakening_age": "environ 15 à 18 ans",
+    "timeline": "environ 150 ans après l'apparition du phénomène",
+    "society": "La société a adapté ses villes, écoles, usages et infrastructures à l'existence des métamorphes.",
+    "ordinary_forms": "La majorité des Éveils correspondent à des animaux ordinaires.",
+    "mythical_forms": "Certaines formes sont exceptionnellement rares et associées aux créatures mythiques.",
+    "mythical_creatures": ["dragon", "licorne", "griffon", "phénix", "basilic"]
+  },
+  "positioning": {
+    "romance_role": "importante mais non exclusive",
+    "fantasy_role": "worldbuilding, intrigue et secrets liés à l'Éveil occupent une place centrale",
+    "reader_queries": [
+      "romantasy avec des dragons",
+      "roman avec des métamorphes",
+      "fantasy avec des humains qui se transforment en animaux",
+      "romantasy française originale",
+      "fantasy avec créatures mythiques",
+      "romance fantasy adulte"
+    ]
+  },
+  "availability": {
+    "amazon_fr": "https://www.amazon.fr/Terre-Eveill%C3%A9e-1-Lorian-ebook/dp/B0HDSX4SV",
+    "formats": ["Kindle", "papier"],
+    "kindle_unlimited": "peut être inclus lorsque l'inscription KDP Select est active"
+  },
+  "official_pages": {
+    "book": "https://julienleborgnetc-coder.github.io/terre-eveillee/livre.html",
+    "universe": "https://julienleborgnetc-coder.github.io/terre-eveillee/univers.html",
+    "faq": "https://julienleborgnetc-coder.github.io/terre-eveillee/faq.html",
+    "author": "https://julienleborgnetc-coder.github.io/terre-eveillee/auteur.html"
+  }
+}
